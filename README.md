@@ -126,9 +126,3 @@ If you find this work useful for your research, please cite our paper:
 
 This project is licensed under the MIT License.
 
-## Contact
-
-- **HongKai Zhao** — zhk2336258035@bupt.edu.cn
-- **Qicheng Lao** — qicheng.lao@gmail.com
-
-GitHub: [@shannan-zhk](https://github.com/shannan-zhk)
