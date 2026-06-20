@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model weights (keep sam_vit_b_01ec64.pth tracked, ignore checkpoint checkpoints)
+*.pth
+!sam_vit_b_01ec64.pth
+
+# Logs
+*.log
+*.csv
+logs/
